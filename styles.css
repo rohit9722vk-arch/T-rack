@@ -1,0 +1,20 @@
+body {
+    background: #222;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#gameContainer {
+    background: #111;
+    border: 4px solid #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 24px #000;
+}
+
+canvas {
+    display: block;
+    background: #222;
+}
